@@ -1,4 +1,0 @@
-# algorithm_theory
-## class
-###
-
